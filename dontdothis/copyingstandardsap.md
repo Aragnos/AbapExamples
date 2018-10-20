@@ -15,3 +15,6 @@ The majority of time businesses see this as a method of cutting costs. Products 
 
 Redudancy is to a computer programmer his greatest enemy. Redudancy materialises itself within ABAP programs in the form of, well the same exact code being in more than 1 ABAP program avaliable on the SAP system. Non-developers will let this slide as they've made the mistake of considering 
 
+### Problem 2: Mixing of Procedural and Objec Oriented Programming
+
+Since the dawn of SAP's ABAP the programming principles have changed a lot, evolving from a procedural point of view to an object oriented. Nowadays it is hard to differentiate between these concepts due to this evolving process and the time ABAP is around. And if people copy a lot and mixing it with their own OOP "hacks" things will get worse.
